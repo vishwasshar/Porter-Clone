@@ -50,31 +50,6 @@ The **Porter Clone Web Application** is a Next.js project developed to enhance c
 
 The application will run at `http://localhost:3000`.
 
-## File Structure
-
-```plaintext
-.
-├── components
-│   ├── Header.js
-│   ├── Footer.js
-│   └── ...
-├── pages
-│   ├── _app.js
-│   ├── index.js
-│   └── ...
-├── public
-│   ├── images
-│   └── ...
-├── styles
-│   ├── globals.css
-│   └── ...
-├── .eslintrc.json
-├── next.config.js
-├── postcss.config.js
-├── tailwind.config.js
-└── package.json
-```
-
 ## Contact Information
 
 For any questions, feedback, or contributions, feel free to reach out to me via:
